@@ -1,5 +1,5 @@
 # gherkin-course-udemy
-Gherkin Language Course By Udemy
+Gherkin Language Course By Udemy: https://bosch.udemy.com/course/gherkin-language-the-master-guide
 
 
 Content:
