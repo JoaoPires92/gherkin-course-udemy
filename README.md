@@ -10,4 +10,4 @@ Content:
 --> Learn about Features, Scenarios, Scenario Outlines  
 --> DataTables, Backgrounds and so much more!  
 
-Certificate of Completion.   
+Certificate of Completion. 
