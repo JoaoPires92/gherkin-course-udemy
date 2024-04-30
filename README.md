@@ -1,7 +1,6 @@
 # gherkin-course-udemy
 Gherkin Language Course By Udemy
 
-
 Content:  
 --> Learn all about the Gherkin language from beginner to expert!  ✅
 --> Learn all the Gherkin keywords and how to use them appropriately  ✅
